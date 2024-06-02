@@ -1,0 +1,2 @@
+Grab Grocers
+Developed during the final year of undergraduate studies, this online grocery store is crafted using HTML, CSS, JavaScript, and PHP, with backend support from Xampp. It provides a user-friendly platform for consumers to browse and purchase groceries while allowing administrators efficient management of stock and orders. With integrated frontend and backend functionalities, the project offers a streamlined e-commerce experience for both consumers and administrators alike.
